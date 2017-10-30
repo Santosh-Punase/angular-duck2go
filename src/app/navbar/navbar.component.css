@@ -1,0 +1,22 @@
+.navbar{
+    background-color: transparent;
+    border-color: transparent;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+    margin: 5px 2px;
+  }
+
+  .fa:hover {
+    color: #55ACEE;
+    cursor: pointer;
+}
+
+.bar:hover {
+    background: gray;
+    color: white;
+}
